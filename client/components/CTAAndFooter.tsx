@@ -11,7 +11,7 @@ export default function CTAAndFooter() {
                 Where Talent Meets Precision.
               </h2>
               <p className="font-roboto text-lg sm:text-xl font-light text-black leading-relaxed mb-6 sm:mb-8 max-w-2xl mx-auto lg:mx-0">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Project collaboration reimagined for modern teams. Bring your people, processes, and progress together in one unified workspace where great ideas transform into exceptional results. From kickoff to completion, we make teamwork feel effortless.
               </p>
 
               {/* CTA Bar */}
@@ -49,7 +49,7 @@ export default function CTAAndFooter() {
             <div className="text-center sm:text-left">
               <h4 className="font-anonymous text-lg font-normal text-white mb-3 sm:mb-4">About</h4>
               <p className="font-roboto text-sm sm:text-lg font-light text-black leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                At BabyCollab, we believe in turning project collaboration into a shared journey. Our platform connects collaborators to exchange ideas, support, and resources that make the construction of projects seamless, efficient and simple. With a touch of creativity and community spirit, BabyCollab is here to help you grow, learn, and celebrate every milestone—together.
               </p>
             </div>
 
@@ -57,9 +57,12 @@ export default function CTAAndFooter() {
             <div className="text-center sm:text-left">
               <h4 className="font-anonymous text-lg font-normal text-white mb-3 sm:mb-4">Features</h4>
               <div className="font-roboto text-sm sm:text-lg font-light text-black leading-relaxed space-y-1">
-                <div>First Feature</div>
-                <div>Second Feature</div>
-                <div>Third Feature</div>
+                <div>Project Collaboration</div>
+                <div>Project Workspaces</div>
+                <div>Interactive Chatrooms</div>
+                <div>Career Roadmaps</div>
+                <div>Resume Optimization</div>
+                <div>Resume ATS Scorer</div>
               </div>
             </div>
 
