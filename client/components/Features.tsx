@@ -9,7 +9,7 @@ export default function Features() {
               Features
             </h2>
             <p className="font-roboto text-base sm:text-lg font-light text-black leading-relaxed max-w-lg mx-auto lg:mx-0">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              We offer a next-generation platform that redefines project collaboration. By combining smart tools for knowledge-sharing, milestone tracking, and community support, we create a seamless ecosystem that helps developers navigate their project journe with confidence and ease.
             </p>
           </div>
 
@@ -28,9 +28,9 @@ export default function Features() {
               {/* Card Content */}
               <div className="relative z-10 bg-white rounded-2xl p-6 mt-16">
                 <div className="w-32 h-28 bg-neutral-100 rounded-full mx-auto mb-6"></div>
-                <h3 className="font-outfit text-xl font-bold text-black mb-3">First Feature</h3>
+                <h3 className="font-outfit text-xl font-bold text-black mb-3">Career Roadmaps</h3>
                 <p className="font-roboto text-xs font-light text-black leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Our Career Roadmap helps you visualize your growth, set clear goals, and track progress—giving you a structured path to achieve your professional milestones with confidence.
                 </p>
               </div>
             </div>
@@ -48,9 +48,9 @@ export default function Features() {
               {/* Card Content */}
               <div className="relative z-10 bg-white rounded-2xl p-6 mt-16">
                 <div className="w-32 h-28 bg-neutral-100 rounded-full mx-auto mb-6"></div>
-                <h3 className="font-outfit text-xl font-bold text-black mb-3">Second Feature</h3>
+                <h3 className="font-outfit text-xl font-bold text-black mb-3">Project Collaboration</h3>
                 <p className="font-roboto text-xs font-light text-black leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                 Our Project Collaboration feature makes it easy to connect, share ideas, and work together seamlessly—turning teamwork into real results.
                 </p>
               </div>
 
