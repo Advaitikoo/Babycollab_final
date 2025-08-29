@@ -9,7 +9,7 @@ export default function Impressions() {
               Impressions
             </h2>
             <p className="font-roboto text-lg font-light text-black leading-relaxed max-w-md">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Turning experiences into insights
             </p>
           </div>
 
